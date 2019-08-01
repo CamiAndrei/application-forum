@@ -633,7 +633,7 @@ Answers and Comments for a Topic
   border-radius: 5px;
   height: 50px;
   width: 50px;
-  margin-right: 5px;
+  margin-right: 10px;
 }
 
 .answer-reply { 
@@ -786,7 +786,7 @@ Limit content / make it responsive
 
 .comment-meta {
   color: $theme.textSecondaryColor; 
-  padding: 7px 10px; 
+  padding: 7px 0px; 
   display: inline-block; 
   text-transform: uppercase; 
   font-size: 10px;
